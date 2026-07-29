@@ -1,0 +1,57 @@
+country,country_code,rollout_date,wave,region
+Chile,CL,2022-03-01,1,Americas
+Costa Rica,CR,2022-03-01,1,Americas
+Peru,PE,2022-03-01,1,Americas
+Argentina,AR,2022-07-01,2,Americas
+Dominican Republic,DO,2022-07-01,2,Americas
+El Salvador,SV,2022-07-01,2,Americas
+Guatemala,GT,2022-07-01,2,Americas
+Honduras,HN,2022-07-01,2,Americas
+New Zealand,NZ,2023-02-08,3,Asia-Pacific
+Canada,CA,2023-02-08,3,Americas
+Portugal,PT,2023-02-08,3,Europe
+Spain,ES,2023-02-08,3,Europe
+Belgium,BE,2023-05-23,4,Europe
+United States,US,2023-05-23,4,Americas
+Mexico,MX,2023-05-23,4,Americas
+Brazil,BR,2023-05-23,4,Americas
+Colombia,CO,2023-05-23,4,Americas
+Luxembourg,LU,2023-05-23,4,Europe
+France,FR,2023-05-23,4,Europe
+United Kingdom,GB,2023-05-23,4,Europe
+Denmark,DK,2023-05-23,4,Europe
+Ireland,IE,2023-05-23,4,Europe
+Iceland,IS,2023-05-23,4,Europe
+Switzerland,CH,2023-05-23,4,Europe
+Sweden,SE,2023-05-23,4,Europe
+Finland,FI,2023-05-23,4,Europe
+Norway,NO,2023-05-23,4,Europe
+Netherlands,NL,2023-05-23,4,Europe
+Germany,DE,2023-05-23,4,Europe
+Italy,IT,2023-05-23,4,Europe
+Austria,AT,2023-05-23,4,Europe
+Poland,PL,2023-05-23,4,Europe
+Saudi Arabia,SA,2023-05-23,4,Middle East & Africa
+Estonia,EE,2023-05-23,4,Europe
+Czech Republic,CZ,2023-05-23,4,Europe
+Hungary,HU,2023-05-23,4,Europe
+Romania,RO,2023-05-23,4,Europe
+Greece,GR,2023-05-23,4,Europe
+Cyprus,CY,2023-05-23,4,Europe
+Malta,MT,2023-05-23,4,Europe
+Singapore,SG,2023-05-23,4,Asia-Pacific
+Latvia,LV,2023-05-23,4,Europe
+Lithuania,LT,2023-05-23,4,Europe
+Hong Kong,HK,2023-05-23,4,Asia-Pacific
+Malaysia,MY,2023-05-23,4,Asia-Pacific
+Philippines,PH,2023-05-23,4,Asia-Pacific
+Thailand,TH,2023-05-23,4,Asia-Pacific
+Taiwan,TW,2023-05-23,4,Asia-Pacific
+Israel,IL,2023-05-23,4,Middle East & Africa
+South Africa,ZA,2023-05-23,4,Middle East & Africa
+Australia,AU,2023-05-23,4,Asia-Pacific
+Croatia,HR,2023-07-20,5,Europe
+Kenya,KE,2023-07-20,5,Middle East & Africa
+India,IN,2023-07-20,5,Asia-Pacific
+Indonesia,ID,2023-07-20,5,Asia-Pacific
+United Arab Emirates,AE,2023-07-20,5,Middle East & Africa
