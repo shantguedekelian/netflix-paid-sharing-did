@@ -58,6 +58,8 @@ To validate this result and check the parallel trends assumption properly, the a
 
 The two approaches disagree, and that disagreement is the most important finding in this project. The simplified two-wave model compressed 12 weeks of noisy data from just 2 treatment countries into a single average, which can make sampling noise look like a clean, significant effect. The event study (using more data and more rigorous controls) did not replicate that result, suggesting the initial significant estimate was likely an artifact of a small, noisy sample rather than a precisely estimated true effect.
 
+**Placebo validation.** A placebo test using a fake treatment date (Oct 2022, when no real rollout occurred) returned insignificant results for both outcomes, confirming the model doesn't spuriously detect effects where none exist. This strengthens confidence in the event-study finding over the initial (and likely overstated) static DiD result.
+
 
 ## Known Limitations
 
